@@ -30,9 +30,9 @@ $ npm run dev
 
 ### 入门篇
 
-[1.1  Node.js 的安装与配置](https://github.com/liuxing/abc-blog/tree/master/docs/1.1Node.js的安装与配置.md)
+[1.1  Node.js 的安装与配置](https://github.com/stevecchow/The-overview-of-node/blob/master/docs/1%20node.js%20%E4%BB%8B%E7%BB%8D.md)
 
-- [安装Node.js](https://github.com/liuxing/abc-blog/tree/master/docs/1.1Node.js的安装与配置.md#安装nodejs)
+- [安装Node.js](https://github.com/stevecchow/The-overview-of-node/blob/master/docs/2%20npm.md)
 - [使用nvm](https://github.com/liuxing/abc-blog/tree/master/docs/1.1Node.js的安装与配置.md#使用-nvm)
 - [一些有用的工具](https://github.com/liuxing/abc-blog/tree/master/docs/1.1Node.js的安装与配置.md#一些有用的工具)
 - [hello-node](https://github.com/liuxing/abc-blog/tree/master/docs/1.1Node.js的安装与配置.md#hello-node)
@@ -135,7 +135,7 @@ $ npm run dev
 
 ## License
 
-[MIT](https://github.com/liuxing/abc-blog/blob/master/LICENSE) .  Copyright (c) Liu Xing
+[MIT](https://github.com/liuxing/abc-blog/blob/master/LICENSE) .  Copyright (c) ZhouHongming
 
 本作品采用[知识共享 署名-非商业性使用 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc/4.0/) 进行许可。
 
