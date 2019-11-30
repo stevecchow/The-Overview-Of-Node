@@ -1,6 +1,4 @@
-### 2、npm
-
-##### 2.1 npm 是什么
+## 2.1 npm 是什么
 
 - npm（node package manager）， 是世界上最大的开源库生态系统
 
@@ -16,7 +14,7 @@
 
 
 
-##### 2.2 npm 常用命令
+## 2.2 npm 常用命令
 
 - 安装所有依赖命令
   - `npm install`
@@ -59,15 +57,15 @@
 
 
 
-##### 2.3 解决 npm 被墙问题
+## 2.3 解决 npm 被墙问题
 
-###### 2.3.1 淘宝 cnpm
+### 2.3.1 淘宝 cnpm
 
 网址：http://npm.taobao.org/
 
 
 
-###### 2.3.2 安装 cnpm
+### 2.3.2 安装 cnpm
 
 ```shell
 # --global 表示安装到全局，而非当前目录
@@ -76,7 +74,7 @@ npm install cnpm -g
 
 
 
-###### 2.3.3 使用
+### 2.3.3 使用
 
 ```shell
 # 这里还是走国外的 npm 服务器，速度比较慢
@@ -87,7 +85,7 @@ cnpm install jquery
 
 
 
-###### 2.3.4 更改数据源
+### 2.3.4 更改数据源
 
 - 作用：既不必安装 cnpm ，又可以使用淘宝的源
 
@@ -110,7 +108,7 @@ cnpm install jquery
 
 
 
-##### 2.4 package.json 和 package-lock.json
+## 2.4 package.json 和 package-lock.json
 
 | package.json                                                 | package-lock.json                                            |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |

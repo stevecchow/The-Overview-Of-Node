@@ -34,15 +34,15 @@ $ npm run dev
 
 - [nodejs 是什么](https://github.com/stevecchow/The-overview-of-node/blob/master/docs/1%20node.js%20%E4%BB%8B%E7%BB%8D.md#nodejs-是什么)
 - [nodejs 和 浏览器 JavaScript 的区别](https://github.com/stevecchow/The-overview-of-node/blob/master/docs/1%20node.js%20%E4%BB%8B%E7%BB%8D.md#nodejs-和-浏览器-JavaScript-的区别)
-- [V8 引擎](https://github.com/stevecchow/The-overview-of-node/blob/master/docs/1%20node.js%20%E4%BB%8B%E7%BB%8D.md)
-- [nodejs 的特点](https://github.com/stevecchow/The-overview-of-node/blob/master/docs/1%20node.js%20%E4%BB%8B%E7%BB%8D.md)
-- [nodejs 能做什么](https://github.com/stevecchow/The-overview-of-node/blob/master/docs/1%20node.js%20%E4%BB%8B%E7%BB%8D.md)
-- [最常用的场景](https://github.com/stevecchow/The-overview-of-node/blob/master/docs/1%20node.js%20%E4%BB%8B%E7%BB%8D.md)
-- [完整 node 应用会用到的技术](https://github.com/stevecchow/The-overview-of-node/blob/master/docs/1%20node.js%20%E4%BB%8B%E7%BB%8D.md)
+- [V8 引擎](https://github.com/stevecchow/The-overview-of-node/blob/master/docs/1%20node.js%20%E4%BB%8B%E7%BB%8D.md#V8-引擎)
+- [nodejs 的特点](https://github.com/stevecchow/The-overview-of-node/blob/master/docs/1%20node.js%20%E4%BB%8B%E7%BB%8D.md#nodejs-的特点)
+- [nodejs 能做什么](https://github.com/stevecchow/The-overview-of-node/blob/master/docs/1%20node.js%20%E4%BB%8B%E7%BB%8D.md#nodejs-能做什么)
+- [最常用的场景](https://github.com/stevecchow/The-overview-of-node/blob/master/docs/1%20node.js%20%E4%BB%8B%E7%BB%8D.md#最常用的场景)
+- [完整 node 应用会用到的技术](https://github.com/stevecchow/The-overview-of-node/blob/master/docs/1%20node.js%20%E4%BB%8B%E7%BB%8D.md#完整-node-应用会用到的技术)
 
 [2 npm](https://github.com/liuxing/abc-blog/tree/master/docs/1.2Node.js基础概览.md)
 
-- [npm 是什么](https://github.com/liuxing/abc-blog/tree/master/docs/1.2Node.js基础概览.md#node模块)
+- [npm 是什么](https://github.com/liuxing/abc-blog/tree/master/docs/1.2Node.js基础概览.md#node模块#npm-是什么)
 - [npm 常用命令](https://github.com/liuxing/abc-blog/tree/master/docs/1.2Node.js基础概览.md#npm模块管理器)
 - [解决 npm 被墙问题]()
 - [package.json 和 package-lock.json]()
