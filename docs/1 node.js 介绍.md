@@ -7,8 +7,8 @@
   - 它是一个基于 Chrome V8 引擎的 JavaScript 运行环境（runtime）
 - 作用：
   - 在完全脱离浏览器的环境中，解析和执行 JavaScript 代码
-
-
+  
+<br/>
 
 ### nodejs 和 浏览器 JavaScript 的区别
 
@@ -26,7 +26,7 @@
   - nodejs 完全就没有 BOM 和 DOM，所以不能使用 BOM 或者 DOM 的属性和方法
   - 浏览器中的 JavaScript 是没有文件操作等能力的，nodejs 中提供了实现这些功能的服务器级别 API
 
-
+<br/>
 
 ### V8 引擎
 
@@ -42,7 +42,7 @@
 
 - node.js 的作者把 V8 引擎移植了出来，开发了一个独立的 JavaScript 运行环境
 
-
+<br/>
 
 ### nodejs 的特点
 
@@ -50,7 +50,7 @@
 2. non-blocking I/O model 非阻塞 I/O 模型（意思就是支持异步操作）
 3. lightweight and efficient 轻量和高效
 
-
+<br/>
 
 ### nodejs 能做什么
 
@@ -66,7 +66,7 @@
 - git（c语言开发的，不过也可以用 node 开发）
 - hexo（node 开发的）
 
-
+<br/>
 
 ### 最常用的场景
 
@@ -77,7 +77,7 @@
   - gulp
   - npm
 
-
+<br/>
 
 ### 完整 node 应用会用到的技术
 
