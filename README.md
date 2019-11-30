@@ -40,16 +40,16 @@ $ npm run dev
 - [最常用的场景](https://github.com/stevecchow/The-overview-of-node/blob/master/docs/1%20node.js%20%E4%BB%8B%E7%BB%8D.md#最常用的场景)
 - [完整 node 应用会用到的技术](https://github.com/stevecchow/The-overview-of-node/blob/master/docs/1%20node.js%20%E4%BB%8B%E7%BB%8D.md#完整-node-应用会用到的技术)
 
-[2 npm](https://github.com/liuxing/abc-blog/tree/master/docs/1.2Node.js基础概览.md)
+[2 npm]()
 
-- [npm 是什么](https://github.com/liuxing/abc-blog/tree/master/docs/1.2Node.js基础概览.md#node模块#npm-是什么)
-- [npm 常用命令](https://github.com/liuxing/abc-blog/tree/master/docs/1.2Node.js基础概览.md#npm模块管理器)
+- [npm 是什么]()
+- [npm 常用命令]()
 - [解决 npm 被墙问题]()
 - [package.json 和 package-lock.json]()
 
 ### 上线篇
 
-[3 域名与服务器](https://github.com/liuxing/abc-blog/blob/master/docs/4.1域名与服务器.md)
+[3 未完待续]()
 <!-- - []()
 - []() -->
 
