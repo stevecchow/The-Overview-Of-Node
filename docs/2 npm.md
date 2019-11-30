@@ -1,4 +1,4 @@
-## 2.1 npm 是什么
+## npm 是什么
 
 - npm（node package manager）， 是世界上最大的开源库生态系统
 
