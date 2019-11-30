@@ -49,10 +49,9 @@ $ npm run dev
 
 ### 上线篇
 
-[4.1 域名与服务器](https://github.com/liuxing/abc-blog/blob/master/docs/4.1域名与服务器.md)
-
-- []()
-- []()
+[3 域名与服务器](https://github.com/liuxing/abc-blog/blob/master/docs/4.1域名与服务器.md)
+<!-- - []()
+- []() -->
 
 ## License
 
