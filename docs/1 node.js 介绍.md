@@ -122,3 +122,7 @@
 
 - 9.3 模板字符串
 - comments:comments 可以简写为 comments
+
+<br/>
+
+[第二章 NPM](https://github.com/stevecchow/The-overview-of-node/blob/master/docs/2%20npm.md)
