@@ -237,6 +237,10 @@ npm config list
 
 
 
+<br/>
+
+
+
 ## 4 两个 json 文件
 
 >  package.json 和 package-lock.json
@@ -248,3 +252,14 @@ npm config list
 | 使用 `npm install --save jquery` 等安装命令的时候，记得加上 `--save`，这样才能将把依赖信息放入 package.json 中 | 它会保存 mode_modules 中所有包的信息（版本、下载地址等），当你执行 `npm install` 的时候，可以更快地一次性安装完所有依赖包 |
 | 建议每一个项目都要有一个 package.json 文件（包描述文件，就像产品的说明书一样），拥有描述整个项目的信息。让人能够在 node_modules 目录文件被删之后，还能根据 package.json 中的 dependencies ，将所有依赖包全部安装回来。 |                                                              |
 
+<br/>
+
+---
+
+<br/>
+
+上一章：《[1 nodeJS 介绍](https://github.com/stevecchow/The-overview-of-node/blob/master/docs/1%20node.js%20%E4%BB%8B%E7%BB%8D.md)》
+
+<br/>
+
+下一章：[未完待续...]()
