@@ -113,7 +113,7 @@ back-end
 - RequireJS
 - SeaJS
 
-**异步编程四个重点：**
+**异步编程的四个重点：**
 
 回调函数
 
@@ -131,9 +131,10 @@ generator
 
 **EcmaScript 6：**
 
-9.3 模板字符串
+EcmaScript6，简称 es6，相比 es5，它提供了一些新的功能：
 
-comments:comments 可以简写为 comments
+- 模板字符串
+- comments:comments 可以简写为 comments
 
 <br/>
 
