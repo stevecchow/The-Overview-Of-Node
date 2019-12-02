@@ -1,29 +1,50 @@
-## npm 是什么
+## 本节内容
 
-- npm（node package manager）， 是世界上最大的开源库生态系统
+- [1 npm 是什么](https://github.com/stevecchow/The-overview-of-node/blob/master/docs/2%20npm.md#1-npm-是什么)
+- [2 npm 有哪些常用命令](https://github.com/stevecchow/The-overview-of-node/blob/master/docs/2%20npm.md#2-npm-有哪些常用命令)
+- [3 ]()
 
-- 其实就是一大群开发者，把自己开发出的 包，提供给喜欢用命令行下载的朋友的一个平台
+<br/>
 
-- 这样做的目的，是为了让开发人员更方便的下载和使用
+## 1 npm 是什么
 
-- 你也可以去 npm 上面发布自己开发的 包，让别人使用
+**概念：**
 
-- 网址：
+- NPM（node package manager），是世界上最大的开源库 生态系统
+- 通俗来讲，其实就是一大群开发者，在这个平台（NPM）上，把自己开发出的 包，提供给别人
+- NPM 平台上的包，都需要 nodeJS 提供支持，来进行下载和使用
 
-  >  npmjs.com
+**目的：**
+
+- 为了让 开发人员 更方便 下载和使用 各种依赖包
+- 当然，你也可以去 平台 发布 自己开发的 包，让别人来使用
+
+**平台地址：**
+
+[npmjs.com](npmjs.com)
 
 
 
-## 2.2 npm 常用命令
+## 2 npm 有哪些常用命令
 
-- 安装所有依赖命令
-  - `npm install`
-    - 一次性把 dependencies 与 devDependencies 选项中的依赖项全部安装
-    - 简写：`npm i`
-  - `npm install --production`
-    - 一次性把 dependencies 选项中的依赖项全部安装，除开 devDependencies
-    - 简写：`npm i --production`
-- 查看 npm 版本号
+**安装依赖：**
+
+`npm install`
+
+一次性把 dependencies 与 devDependencies 选项中的依赖项全部安装
+
+简写：`npm i`
+
+`npm install --production`
+
+一次性把 dependencies 选项中的依赖项全部安装，除开 devDependencies
+
+简写：`npm i --production`
+
+
+
+**查看 npm 版本号：**
+
   - `npm -version`
   - `npm -v`
   - `npm --v`
@@ -57,15 +78,15 @@
 
 
 
-## 2.3 解决 npm 被墙问题
+## 3 解决 npm 被墙问题
 
-### 2.3.1 淘宝 cnpm
+### 淘宝 cnpm
 
 网址：http://npm.taobao.org/
 
 
 
-### 2.3.2 安装 cnpm
+### 安装 cnpm
 
 ```shell
 # --global 表示安装到全局，而非当前目录
@@ -74,7 +95,7 @@ npm install cnpm -g
 
 
 
-### 2.3.3 使用
+### 使用
 
 ```shell
 # 这里还是走国外的 npm 服务器，速度比较慢
@@ -85,7 +106,7 @@ cnpm install jquery
 
 
 
-### 2.3.4 更改数据源
+### 更改数据源
 
 - 作用：既不必安装 cnpm ，又可以使用淘宝的源
 
@@ -108,7 +129,7 @@ cnpm install jquery
 
 
 
-## 2.4 package.json 和 package-lock.json
+## package.json 和 package-lock.json
 
 | package.json                                                 | package-lock.json                                            |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
