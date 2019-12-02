@@ -258,8 +258,8 @@ npm config list
 
 <br/>
 
-上一章：《[1 nodeJS 介绍](https://github.com/stevecchow/The-overview-of-node/blob/master/docs/1%20node.js%20%E4%BB%8B%E7%BB%8D.md)》
+上一章：《[第一章 nodeJS 介绍](https://github.com/stevecchow/The-overview-of-node/blob/master/docs/1%20node.js%20%E4%BB%8B%E7%BB%8D.md)》
 
 <br/>
 
-下一章：[未完待续...]()
+下一章：《[第三章 启动](https://github.com/stevecchow/The-overview-of-node/blob/master/docs/3%20%E5%91%BD%E4%BB%A4.md#启动)》

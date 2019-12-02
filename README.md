@@ -47,6 +47,8 @@ $ npm run dev
 - [npm 下载速度太慢](https://github.com/stevecchow/The-overview-of-node/blob/master/docs/2%20npm.md#3-npm-下载速度太慢)
 - [ 两个 json 文件](https://github.com/stevecchow/The-overview-of-node/blob/master/docs/2%20npm.md#4-两个-json-文件)
 
+[3 启动](https://github.com/stevecchow/The-overview-of-node/blob/master/docs/3%20%E5%91%BD%E4%BB%A4.md#启动)
+
 ### 上线篇
 
 [未完待续...]()
@@ -55,7 +57,10 @@ $ npm run dev
 - []() -->
 
 ## 解疑
-任何疑问，欢迎大家到 issue 中进行讨论，笔者定会尽快为大家解决
+如有任何疑问，欢迎大家到 issue 中进行讨论，笔者定会尽快为大家解决
+
+## 更新
+每周六更新
 
 ## License
 
