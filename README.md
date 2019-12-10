@@ -1,30 +1,46 @@
-<!-- # node-blog  
+# 《轻松掌握 node.js》
 
-[![License](https://img.shields.io/github/license/liuxing/abc-blog.svg)](https://github.com/liuxing/abc-blog/blob/master/LICENSE) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg) ](http://standardjs.com)  
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com)  
 
-> 《Node.js从入门到上线》—— Koa2 + MongoDB 搭建博客系统
+> 《轻松掌握 node.js》—— express + MongoDB 搭建商城系统
 
+<br/>
 
+## 示例项目[![npm](https://img.shields.io/npm/v/koa2-starter.svg)](https://www.npmjs.com/package/koa2-starter) 
 
-### 脚手架工具[![npm](https://img.shields.io/npm/v/koa2-starter.svg)](https://www.npmjs.com/package/koa2-starter) 
+如果大家觉得直接从零开始学习一门新技术太抽象了，推荐下载并研究我们的示例项目。该项目已经包含了 express、mongoose、nodemon、cookie-parser 等辅助工具与中间件。
 
-之前一个同学说，要新建这么多文件好麻烦。所以写了个脚手架工具： [koa2-starter-cli](https://github.com/liuxing/koa2-starter-cli) 可通过命令行接口自定义模板引擎以及ESLint，同时包含了nodemon、husky、lint-staged、commitizen之类的辅助工具。*(目录结构与本教程略微有不同)*
+希望大家能在学习的过程中，不断地反思示例项目中为何要这样设计，从而加深大家对 nodeJS 这门技术的理解。
 
 使用方式：
 
 ```bash
-# 下载脚手架工具
-$ npm install -g koa2-starter
-# 生成项目
-$ koa2 init <project-name>
+# 下载项目
+$ git clone https://github.com/stevecchow/SCMallServer.git
+
 # 进入项目
-$ cd <project-name>
-$ git init
+$ cd <path>/SCMallServer
 $ npm install
-$ npm run dev
+$ npm run start
 ```
 
-更多详细：[koa2-starter-cli](https://github.com/liuxing/koa2-starter-cli)  -->
+更多详细请参见：[SCMallServer](https://github.com/stevecchow/SCMallServer)
+
+<br/>
+
+## 课程介绍
+
+《ECMAScript 6 入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。
+
+本书覆盖 ES6 与上一个版本 ES5 的所有不同之处，对涉及的语法知识给予详细介绍，并给出大量简洁易懂的示例代码。
+
+本书为中级难度，适合已经掌握 ES5 的读者，用来了解这门语言的最新发展；也可当作参考手册，查寻新增的语法点。如果你是 JavaScript 语言的初学者，建议先学完[《JavaScript 语言入门教程》](https://wangdoc.com/javascript/)，再来看本书。
+
+全书已由电子工业出版社出版，2017年9月推出了第三版，书名为《ES6 标准入门》。纸版是基于网站内容排版印刷的。
+
+感谢张春雨编辑支持我将全书开源的做法。如果您认可这本书，建议购买纸版。这样可以使出版社不因出版开源书籍而亏钱，进而鼓励更多的作者开源自己的书籍。下面是第三版的购买地址。
+
+<br/>
 
 ## 目录
 
@@ -56,16 +72,26 @@ $ npm run dev
 
 - []() -->
 
+<br/>
+
 ## 解疑
+
 如有任何疑问，欢迎大家到 issue 中进行讨论，笔者定会尽快为大家解决
 
+<br/>
+
 ## 更新
+
 每周六更新
+
+<br/>
 
 ## License
 
-[MIT](https://github.com/liuxing/abc-blog/blob/master/LICENSE) .  Copyright (c) 2019-present stevecchow
+本书采用“保持署名—非商用”创意共享4.0许可证。
 
-本作品采用[知识共享 署名-非商业性使用 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc/4.0/) 进行许可。
+只要保持原作者署名和非商用，您可以自由地阅读、分享、修改本书。
 
-[![知识共享许可协议](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/)
+详细的法律条文请参见[创意共享](http://creativecommons.org/licenses/by-nc/4.0/)网站。
+
+Copyright (c) 2019-present stevecchow

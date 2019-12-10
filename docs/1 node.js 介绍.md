@@ -12,21 +12,21 @@
 
 ## 1 nodeJs 是什么
 
-**概念：**
+> 要想学好一门语言，首先我们需要弄清楚它们到底是什么，对其有一个整体的把握。
 
-它不是一门语言、一个库或一个框架
+一直觉得 nodeJS 很厉害的样子，那它到底是什么呢？
 
-它是一个基于 Chrome V8 引擎的 JavaScript 运行环境（runtime）
+首先我们应该明却一件事：Node.js 不是一门新的语言，也不是一个库或框架。它只是一个基于 Chrome V8 引擎的 EcmaScript 运行环境（runtime）。
 
-**作用：**
-
-在完全脱离浏览器的环境中，解析和执行 JavaScript 代码
+它唯一的作用，就是在完全脱离浏览器的环境中，解析和执行 EcmaScript 代码。
 
 <br/>
 
-## 2 nodeJs 和 浏览器 JavaScript 的区别
+## 2 nodeJs 和 JavaScript
 
-|                      | JavaScript | nodeJs |
+> 那 nodeJS 和 JavaScript 有什么区别呢？
+
+| 功能                 | JavaScript | nodeJs |
 | -------------------- | ---------- | ------ |
 | EcmaScript           | √          | √      |
 | BOM                  | √          |        |
@@ -38,9 +38,9 @@
 
 **注意：**
 
-nodeJs 完全就没有 BOM 和 DOM，所以不能使用 BOM 或者 DOM 的属性和方法
+nodeJs 完全没有 BOM 和 DOM 这两块实现，所以不能使用 BOM 或者 DOM 的属性和方法。
 
-浏览器中的 JavaScript 是没有文件操作等能力的，nodejs 中提供了实现这些功能的服务器级别 API
+浏览器中的 JavaScript 是没有文件操作等能力的，而 nodejs 中提供了实现这些功能的服务器级别 API。
 
 <br/>
 
