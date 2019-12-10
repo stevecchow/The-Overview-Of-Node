@@ -6,9 +6,11 @@
 
 <br/>
 
-## 示例项目[![npm](https://img.shields.io/npm/v/koa2-starter.svg)](https://www.npmjs.com/package/koa2-starter) 
+## 示例项目
 
-如果大家觉得直接从零开始学习一门新技术太抽象了，推荐下载并研究我们的示例项目。该项目已经包含了 express、mongoose、nodemon、cookie-parser 等辅助工具与中间件。
+如果大家觉得直接从零开始学习一门新技术太抽象了，推荐下载并研究我们的示例项目 [SCMallServer](https://github.com/stevecchow/SCMallServer) 。该项目已经包含了 express、mongoose、nodemon、cookie-parser 等辅助工具与中间件。
+
+> 该项目为 [SCMallSystem](https://github.com/stevecchow/SCMallSystem) 的后台系统，如果想看到完整的项目运行效果，请附带下载 SCMallSystem 项目。
 
 希望大家能在学习的过程中，不断地反思示例项目中为何要这样设计，从而加深大家对 nodeJS 这门技术的理解。
 
@@ -24,13 +26,11 @@ $ npm install
 $ npm run start
 ```
 
-更多详细请参见：[SCMallServer](https://github.com/stevecchow/SCMallServer)
-
 <br/>
 
 ## 课程介绍
 
-《轻松掌握 node.js》是一本开源的 nodeJS 教程，但并非全面介绍 nodeJS 的书籍。我们书写本书的目的，旨在为广大初学者提供一个更快、更优质的 nodeJS 入门方式。 
+《轻松掌握 node.js》是一本开源的 nodeJS 教程，但并非为了全面介绍 nodeJS。我的写作目的，旨在为广大初学者提供一个更高效、易懂、深刻的学习体验，杜绝废话，为大家提供一个更优质的 nodeJS 入门方式。 
 
 本书为中级难度，适合已经掌握 ES5 的读者，用来快速入门 nodeJS 这门新技术；如果你是 JavaScript 语言的初学者，建议先学学 JavaScript 的初级教程，再来看本书。
 
