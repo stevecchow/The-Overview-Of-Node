@@ -1,8 +1,8 @@
-# 《轻松掌握 node.js》
+# 《node.js 速成课》
 
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com)  
 
-> 《轻松掌握 node.js》—— express + MongoDB 搭建商城系统
+> 《node.js 速成课》—— express + MongoDB 搭建商城系统
 
 <br/>
 
@@ -30,7 +30,7 @@ $ npm run start
 
 ## 课程介绍
 
-《轻松掌握 node.js》是一本开源的 nodeJS 教程，但并非为了全面介绍 nodeJS。我们的写作目的，旨在为广大初学者提供一个更高效、易懂、深刻的学习体验。全文杜绝了很多不必要的描述，只愿为大家提供一个更优质的 nodeJS 入门方式。 
+《node.js 速成课》是一本开源的 nodeJS 教程，但并非为了全面介绍 nodeJS。全文杜绝了很多不必要的描述，只愿为大家提供一个快速、优质的 nodeJS 入门方式，和一个高效、易懂、深刻的学习体验。
 
 本书为中级难度，适合已经掌握 ES5 的读者，用来快速入门 nodeJS 这门新技术。如果你是 JavaScript 语言的初学者，建议先学习一下 JavaScript 的初级教程，再来看本书。
 
