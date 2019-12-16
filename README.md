@@ -55,9 +55,11 @@ $ npm run start
 - [npm 是什么](https://github.com/stevecchow/The-overview-of-node/blob/master/docs/2%20npm.md#1-npm-是什么)
 - [npm 有哪些常用命令](https://github.com/stevecchow/The-overview-of-node/blob/master/docs/2%20npm.md#2-npm-有哪些常用命令)
 - [npm 下载速度太慢](https://github.com/stevecchow/The-overview-of-node/blob/master/docs/2%20npm.md#3-npm-下载速度太慢)
-- [ 两个 json 文件](https://github.com/stevecchow/The-overview-of-node/blob/master/docs/2%20npm.md#4-两个-json-文件)
+- [两个 json 文件](https://github.com/stevecchow/The-overview-of-node/blob/master/docs/2%20npm.md#4-两个-json-文件)
 
-[3 启动](https://github.com/stevecchow/The-overview-of-node/blob/master/docs/3%20%E5%91%BD%E4%BB%A4.md#启动)
+[3 起步](https://github.com/stevecchow/The-Overview-Of-Node/blob/master/docs/3%20%E8%B5%B7%E6%AD%A5.md)
+- [安装 nodejs](https://github.com/stevecchow/The-Overview-Of-Node/blob/master/docs/3%20%E8%B5%B7%E6%AD%A5.md#安装-nodeJS)
+- [启动](https://github.com/stevecchow/The-Overview-Of-Node/blob/master/docs/3%20%E8%B5%B7%E6%AD%A5.md#启动)
 
 ### 上线篇
 
